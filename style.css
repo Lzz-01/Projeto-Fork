@@ -1,0 +1,59 @@
+
+
+body {
+  background-color: #f0f4f8; 
+  font-family: Arial, Helvetica, sans-serif; 
+  text-align: center; 
+  margin-top: 40px;
+}
+
+h1 {
+  color: #1a365d; 
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 6px;
+  border: 2px solid #b0c4de; 
+  border-radius: 4px; 
+  margin-left: 5px;
+  width: 150px;
+}
+
+
+#btResultado {
+  background-color: #2b6cb0; 
+  color: white; 
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer; 
+  margin-top: 15px;
+}
+
+#btResultado:hover {
+  background-color: #1a4971;
+}
+
+
+#outMedia {
+  color: #2d3748;
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+#outSituacao {
+  color: #e53e3e; 
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+
